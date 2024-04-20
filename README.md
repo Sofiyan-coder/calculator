@@ -12,5 +12,5 @@ Development Process:
 HTML provides the structure.
 CSS styles the layout.
 JavaScript implements the logic for user interaction and calculations.
-
-Host : 
+ 
+Host : https://sofiyan-coder.github.io/calculator/
